@@ -1,0 +1,10 @@
+tbot-ui/node_modules/*
+*.swp
+*.swo
+tbot-ui/.idea
+tbot-ui/.vscode
+tbot-api/.idea
+tbot-api/.vscode
+*.log*
+*.pyc
+
